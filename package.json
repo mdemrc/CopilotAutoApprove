@@ -1,0 +1,14 @@
+{
+  "name": "copilot-auto-approve",
+  "displayName": "Copilot Auto Approve",
+  "description": "Auto-approves Copilot and terminal confirmation dialogs.",
+  "version": "1.0.0",
+  "publisher": "mehmet",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "activationEvents": ["*"],
+  "main": "./extension.js",
+  "categories": ["Productivity"],
+  "contributes": {}
+}
